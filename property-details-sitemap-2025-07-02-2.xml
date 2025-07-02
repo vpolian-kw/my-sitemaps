@@ -9,9 +9,9 @@
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 >
   <url>
-    <loc>https://vpolian-kw.github.io/my-sitemaps/123-wall-street</loc>
+    <loc>https://my-sitemaps.vercel.app/123-wall-street</loc>
     <lastmod>2025-06-30</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://vpolian-kw.github.io/my-sitemaps/fr-fr/property/123-wall-street"/>
-    <xhtml:link rel="alternate" hreflang="es-es" href="https://vpolian-kw.github.io/my-sitemaps/es-es/property/123-wall-street"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://my-sitemaps.vercel.app/fr-fr/property/123-wall-street"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://my-sitemaps.vercel.app/es-es/property/123-wall-street"/>
   </url>
 </urlset>
