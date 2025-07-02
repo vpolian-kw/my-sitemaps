@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://vpolian-kw.github.io/property-details-sitemap-index.xml
