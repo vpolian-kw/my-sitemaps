@@ -9,9 +9,9 @@
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 >
   <url>
-    <loc>https://devstageprod.online/123-wall-street</loc>
+    <loc>https://devstageprod.online/123-wall-street.html</loc>
     <lastmod>2025-06-30</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://devstageprod.online/fr-fr/property/123-wall-street"/>
-    <xhtml:link rel="alternate" hreflang="es-es" href="https://devstageprod.online/es-es/property/123-wall-street"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://devstageprod.online/fr-fr/property/123-wall-street.html"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://devstageprod.online/es-es/property/123-wall-street.html"/>
   </url>
 </urlset>
