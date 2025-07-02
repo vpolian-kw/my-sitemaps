@@ -1,3 +1,4 @@
 User-agent: *
 
 Sitemap: https://vpolian-kw.github.io/my-sitemaps/property-details-sitemap-index.xml
+Sitemap: https://vpolian-kw.github.io/my-sitemaps/new-property-details-sitemap-index.xml
